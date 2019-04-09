@@ -18,7 +18,7 @@ owner:
   email: szlin@cs.nctu.edu.tw
   url: http://szlin.wordpress.com
 first_published: 2016 # if migrating another site, the year of your first publish
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/www.debian.org.tw" # the subpath of your site, e.g. /blog
 url: "http://www.debian.org.tw/" # the base hostname & protocol for your site
 
 # on landing page
